@@ -23,10 +23,10 @@
   - The mobile application shall be provided for students, while the admin is provided with the website to manage operations.
 
 - **Integration with UJ Databases for Validation of Bursary Status:**
-  - The system shall be linked with UJ databases for validation of bursary status. Bursary funded students will not be eligible to apply for meals (unless there is allowance delay).
+  - The system shall be linked with UJ databases for validation of bursary status. Bursary funded students will not be eligible to apply for meals (unless there is an allowance delay).
 
 - **Customization of Meal Packages:**
-  - Upon successful application, students will be granted freedom to filter/choose what their meal package should have.
+  - Upon successful application, students will be granted the freedom to filter/choose what their meal package should have.
 
 - **Notification System for Package Collection:**
   - Students will be notified once their packages are ready for collection, which reduces long queues.
